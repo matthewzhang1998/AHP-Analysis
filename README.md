@@ -6,4 +6,6 @@ This project contains two files:
 
 2. Decision 1.xlsx - sample AHP spreadsheet -> please use this as reference when formatting your own input spreadsheets
 
-Please contact me if you need more documentation! (Matthew Zhang)
+3. Decision 1 AHP Output.xlsx - sample spreadsheet containing formatted statistics for Decision 1.xlsx
+
+I coded this really quickly so documentation is pretty poor. If you run into errors or need more documentation, please contact me! (Matthew Zhang)
